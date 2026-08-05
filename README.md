@@ -16,16 +16,6 @@ The primary objective of this project is to showcase practical SQL skills common
 
 ---
 
-## 📂 Project Structure
-
-```text
-Mobility-Analytics-SQL-Project/
-│── mobility_analytics.sql
-│── README.md
-```
-
----
-
 ## 🗄️ Database Features
 
 * Database creation
@@ -34,6 +24,21 @@ Mobility-Analytics-SQL-Project/
 * Foreign Keys
 * Data import using `LOAD DATA LOCAL INFILE`
 * Relational database design
+
+---
+
+## 🗄️ Database Tables
+
+The database consists of **8 relational tables**:
+
+- Cities
+- Users
+- Drivers
+- Vehicles
+- Rides
+- Payments
+- promotions
+- Rating feedback
 
 ---
 
